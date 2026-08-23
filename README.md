@@ -1,6 +1,6 @@
-# metro-cdmx
+# Metro CDMX
+# Política de privacidad
 
-<h1>Política de privacidad</h1>
 <p>Metro CDMX no recopila datos personales.</p>
 <p>No requiere ubicación.</p>
 <p>No accede a contactos.</p>
