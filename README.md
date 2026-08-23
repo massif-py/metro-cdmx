@@ -1,6 +1,6 @@
 # Metro CDMX
 <p>Version 1.0</p>
-<p>Desarrollador: Gabriel Anaya Delgado (massif)</p>
+<p>Desarrollador: Gabriel Anaya Delgado (massif).</p>
 
 
 # Política de privacidad
