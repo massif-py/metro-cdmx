@@ -1,5 +1,9 @@
 # Política de Privacidad
 
+<p align="center">
+  <img src="assets/com.massif.cdmx.png" width="300" height="200">
+</p>
+
 **Aplicación:** Metro CDMX (Versión 1.0).  
 **Desarrollador:** Gabriel Anaya Delgado.  
 **Última actualización:** 23 de agosto de 2026.
