@@ -1,7 +1,7 @@
 # Política de Privacidad
 
 <p align="center">
-  <img src="assets/com.massif.cdmx.png" width="300" height="200">
+  <img src="assets/com.massif.cdmx.png" width="300">
 </p>
 
 **Aplicación:** Metro CDMX (Versión 1.0).  
