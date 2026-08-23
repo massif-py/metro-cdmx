@@ -23,23 +23,17 @@ fun MetroMapWebView(
                     ViewGroup.LayoutParams.MATCH_PARENT,
                     ViewGroup.LayoutParams.MATCH_PARENT
                 )
-
                 settings.apply {
                     javaScriptEnabled = true
                     domStorageEnabled = true
                     allowFileAccess = true
                     allowContentAccess = true
-
-                    // 1. IMPORTANTE: Permitir contenido mixto (HTTP/HTTPS desde file://)
                     if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
                         mixedContentMode = WebSettings.MIXED_CONTENT_ALWAYS_ALLOW
                     }
-
-                    // 2. Permitir acceso cross-origin a archivos locales
                     allowFileAccessFromFileURLs = true
                     allowUniversalAccessFromFileURLs = true
                 }
-
                 webViewClient = WebViewClient()
                 loadUrl(assetPath)
             }
