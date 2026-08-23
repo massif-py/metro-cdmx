@@ -1,34 +1,103 @@
-# Gradle files
+# =========================
+# Android Studio
+# =========================
+
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Android Studio / IntelliJ
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/misc.xml
+.idea/deploymentTargetDropDown.xml
+.idea/assetWizardSettings.xml
+
+# =========================
+# Gradle
+# =========================
+
 .gradle/
 build/
+**/build/
 
-# Local configuration file (sdk path, etc)
+# Gradle local configuration
 local.properties
 
-# Log/OS Files
-*.log
+# =========================
+# Android build outputs
+# =========================
 
-# Android Studio generated files and folders
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# =========================
+# Kotlin
+# =========================
+
+*.class
+.kotlin/
+
+# =========================
+# Java
+# =========================
+
+*.class
+
+# =========================
+# Generated files
+# =========================
+
 captures/
 .externalNativeBuild/
 .cxx/
-*.aab
-*.apk
-output-metadata.json
 
-# IntelliJ
-*.iml
-.idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
+# =========================
+# Native build
+# =========================
 
-# Keystore files
+*.so
+
+# =========================
+# Signing / Keystores
+# =========================
+
 *.jks
 *.keystore
+*.p12
 
-# Google Services (e.g. APIs or Firebase)
+# =========================
+# Secrets / Environment
+# =========================
+
+.env
+.env.*
+!.env.example
+
+# =========================
+# Firebase / Google services
+# =========================
+
 google-services.json
 
-# Android Profiling
-*.hprof
+# =========================
+# OS files
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+# Temporary files
+# =========================
+
+*.log
+*.tmp
+*.swp
+*.swo
+*~
