@@ -1,12 +1,12 @@
 # Política de Privacidad
 
-<p align="center">
-  <img src="assets/com.massif.cdmx.png" width="300">
-</p>
-
 **Aplicación:** Metro CDMX (Versión 1.0).  
 **Desarrollador:** Gabriel Anaya Delgado.  
 **Última actualización:** 23 de agosto de 2026.
+
+<p align="center">
+  <img src="assets/com.massif.cdmx.png" width="300">
+</p>
 
 Esta Política de Privacidad describe cómo la aplicación **Metro CDMX** maneja la información de los usuarios. Nos tomamos muy en serio la privacidad y la protección de datos.
 
