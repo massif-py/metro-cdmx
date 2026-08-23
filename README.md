@@ -1,6 +1,9 @@
 # Metro CDMX
-# Política de privacidad
+<p>Version 1.0</p>
+<p>Desarrollador: Gabriel Anaya Delgado (massif)</p>
 
+
+# Política de privacidad
 <p>Metro CDMX no recopila datos personales.</p>
 <p>No requiere ubicación.</p>
 <p>No accede a contactos.</p>
