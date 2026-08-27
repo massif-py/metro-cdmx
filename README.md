@@ -1,20 +1,20 @@
 # Política de Privacidad
 
-**Aplicación:** Metro CDMX (Versión 1.0).  
+**Aplicación:** Metro Map (Versión 1.1).  
 **Desarrollador:** Gabriel Anaya Delgado.  
-**Última actualización:** 23 de agosto de 2026.
+**Última actualización:** 26 de agosto de 2026.
 
 <p align="center">
   <img src="assets/com.massif.cdmx.png" width="300">
 </p>
 
-Esta Política de Privacidad describe cómo la aplicación **Metro CDMX** maneja la información de los usuarios. Nos tomamos muy en serio la privacidad y la protección de datos.
+Esta Política de Privacidad describe cómo la aplicación **Metro Map** maneja la información de los usuarios. Nos tomamos muy en serio la privacidad y la protección de datos.
 
 ---
 
 ## 1. Recopilación y Uso de Datos
 
-**Metro CDMX no recopila, almacena, procesa ni transmite ningún tipo de información personal de los usuarios.**
+**Metro Map no recopila, almacena, procesa ni transmite ningún tipo de información personal de los usuarios.**
 
 - No solicitamos registro ni creación de cuentas de usuario.
 - No recopilamos identificadores únicos del dispositivo, direcciones IP ni datos de uso.
