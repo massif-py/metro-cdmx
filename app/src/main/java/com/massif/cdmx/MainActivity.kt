@@ -36,7 +36,7 @@ class MainActivity : ComponentActivity() {
                         val textoConEnlace = buildAnnotatedString {
                             withLink(
                                 LinkAnnotation.Url(
-                                    url = "https://github.com/massif-py/metro-cdmx/",
+                                    url = "https://massif-py.github.io/metro-map/",
                                     styles = TextLinkStyles(
                                         style = SpanStyle(
                                             color = Color.Blue,
